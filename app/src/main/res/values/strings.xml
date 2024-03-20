@@ -5,6 +5,8 @@
     <string name="type_your_repassword">Digite sua senha novamente</string>
     <string name="already_register">Usuário já registrado!</string>
     <string name="login">Login</string>
+    <string name="singUp">cadastrar-se</string>
+    <string name="not_register">Usuário não cadastrado!</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
